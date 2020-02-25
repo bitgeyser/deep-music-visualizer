@@ -1,4 +1,4 @@
-entrypoint: python runway_model.py
+entrypoint: python visualize.py
 python: 3.6
 cuda: 9.0
 spec:
